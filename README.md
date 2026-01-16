@@ -139,7 +139,7 @@ RukoZara/
 ---
 
 
-## 🚧 Future Enhancements
+## 🚧 Future plans
 
 ### 🎯 Stage 2: Intelligence Upgrades
 - **RAG Integration:** Upload psychology/mediation PDFs and query with context
@@ -163,13 +163,18 @@ RukoZara/
 
 
 
-### Tech Stack
-- Frontend: React 19, Vite, Tailwind (CDN)
-- Backend: Node.js 18, Express 5
-- AI: Groq LLaMA 3.3 70B, ElevenLabs TTS
+## 👥 Team InnoBits
 
+| Member | Role |
+|--------|------|
+| [**Saman Pandey**](https://github.com/SamanPandey-in) | UI/UX Design & Documentation |
+| [**Jagdish Padhi**](https://github.com/Jagdish-Padhi) | Backend, Database & Integration |
+| [**Twinkle Gupta**](https://github.com/twinkle-2101) | Backend Development |
+| [**Poorvaja Joshi**](https://github.com/poorvaja-1603) | Backend, Video & Docs |
+
+---
 
 
 ---
 
-**Contact:** code369decode@gmail.com
+**Built with ❤️ by Team InnoBits**
