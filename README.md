@@ -1,4 +1,4 @@
-# 🎙️ RukoZara
+# 🎙️ RukoZara (Minimal MVP)
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green) ![React](https://img.shields.io/badge/React-v19-blue) ![Groq](https://img.shields.io/badge/Groq-LLaMA--3.3--70B-purple) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-orange)
 
